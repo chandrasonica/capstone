@@ -46,7 +46,7 @@ model	train_accuracy	test_accuracy	train_time (sec)
 2	LGR	0.854572	0.857311	0.506328
 3	SVM	0.846608	0.853774	6.749078
 
-
+```
 
 #### Outline of project
 
