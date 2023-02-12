@@ -51,6 +51,7 @@ model	train_accuracy	test_accuracy	train_time (sec)
 #### Outline of project
 
 **Link to the notebook:**
+
 https://github.com/chandrasonica/capstone/blob/main/capstone.ipynb
 
 
