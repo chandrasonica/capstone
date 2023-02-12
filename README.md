@@ -1,22 +1,29 @@
-### Project Title
-
-**Author**
-
-#### Executive summary
+### Capstone Project
 Business Problem:
 Based on the health data available for someone, identify if that person has a 10-year risk of future coronary heart disease (CHD).
+
+**Author**
+Chandra Soni
+#### Executive summary
+<TBD>
 #### Rationale
-Why should anyone care about this question?
+Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide.
+
+Most cardiovascular diseases can be prevented by addressing behavioral risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity, and harmful use of alcohol using population-wide strategies.
+
+People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management, wherein a machine learning model can be of great help.
+
 
 #### Research Question
-What are you trying to answer?
+Using this model, we are trying to assess if someone is a risk of future coronary heart disease (CHD). 
+If we can identify such people, doctors can take preventive measures and suggest individuals be serious about taking care of their physical health.  
 
 #### Data Sources
 My dataset comes from the kaggle repository [link](https://www.kaggle.com/code/abrahamanderson/hearth-disease-prediction/datag).  
-The dataset is publically available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
+The dataset is publically available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD). The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
 
 #### Methodology
-What methods are you using to answer the question?
+I used KNN, DTree, logistic regression, and SVM algorithms to find the best model with high accuracy.  Since we want to avoid FN, in this case, I will be looking at the model which gives the highest recall.
 
 #### Results
 I first analyzed, visualized, and then cleaned the data.
