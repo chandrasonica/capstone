@@ -5,7 +5,7 @@ Based on the health data available for someone, identify if that person has a 10
 **Author**
 Chandra Soni
 #### Executive summary
-<TBD>
+TBD
 #### Rationale
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide.
 
