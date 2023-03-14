@@ -6,7 +6,16 @@ Develop a machine learning model to predict an individual's 10-year risk of futu
 Chandra Soni
 
 #### Executive summary
-TBD
+
+The objective of this project is to develop a machine learning model that can accurately predict an individual's 10-year risk of future coronary heart disease (CHD) based on their health data. The model will be trained on a dataset that includes various risk factors such as age, gender, smoking status, blood pressure, cholesterol levels, diabetes status, family history, and lifestyle habits.
+
+The successful development of this model will have a significant impact on healthcare by providing early identification of individuals at high risk of developing CHD. This will enable healthcare professionals to provide timely and appropriate preventive interventions to reduce the incidence of CHD and improve overall health outcomes.
+
+The model's performance will be evaluated using standard metrics such as accuracy, precision, recall, F1-score, and AUC-ROC, and compared against other existing risk assessment tools. The goal is to develop a reliable and accurate predictive model that can be used to inform clinical decision-making and guide preventive interventions to reduce the risk of CHD.
+
+Overall, this project aims to contribute to reducing the incidence of CHD and improving the overall health outcomes of the population by leveraging the power of machine learning to predict an individual's 10-year risk of CHD based on their health data.
+
+
 #### Rationale
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide.
 
