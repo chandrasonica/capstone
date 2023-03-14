@@ -54,9 +54,11 @@ model	train_accuracy	test_accuracy	train_time (sec)
 2	LGR	0.854572	0.857311	0.020705
 3	SVM	0.857817	0.854953	0.354813
 
+```
 
 I then used GridSearch for hyperparameter tuning and did the training and testing again, below are the results. Now all models have comparable test accuracy, but training time had huge variance, SVM and KNN took a long time (I had to remove some of the parameters to make it finish on time). Logistic regression finished in only 0.5 sec.
 
+```
 model	train_accuracy	test_accuracy	train_time (sec)	
 0	KNN	0.867847	0.834906	3.332418
 1	Dtree	0.847788	0.852594	3.672317
